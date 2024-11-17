@@ -19,8 +19,8 @@ Delete tasks from the list.
 Store tasks in a simple text file for persistence.
 
 How to Run:
-1.Download the todo_list.py file.
-2.Run the script using Python:
+Download the todo_list.py file.
+Run the script using Python:
 
 Requirements
 Python 3.x
@@ -39,10 +39,10 @@ Features:
 - Display of the result after each operation.
 
 How to Run:
-1. Download the `calculator.py` file.
-2. Run the script using Python:
-
- Project 3: Password Generator
+Download the `calculator.py` file.
+Run the script using Python:
+ 
+Project 3: Password Generator
  
 Description:
 A secure password generator that creates random passwords of a specified length. 
@@ -55,8 +55,8 @@ Password includes a mix of characters for enhanced security.
 Option to exclude certain characters or symbols.
 
 How to Run:
-1.Download the password_generator.py file.
-2.Run the script using Python
+Download the password_generator.py file.
+Run the script using Python
 
 Project 4: Rock-Paper-Scissors Game
 
@@ -71,8 +71,8 @@ Option to play multiple rounds.
 Display of the game result (Win, Lose, Draw).
 
 How to Run:
-1.Download the rock_paper_scissors.py file.
-2.Run the script using Python:
+Download the rock_paper_scissors.py file.
+Run the script using Python:
 
 Conclusion
 This collection of Python projects represents the skills I have developed during my internship at Codsoft. 
