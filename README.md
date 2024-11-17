@@ -21,8 +21,6 @@ Store tasks in a simple text file for persistence.
 How to Run:
 1.Download the todo_list.py file.
 2.Run the script using Python:
-bash
-python todo_list.py
 
 Requirements
 Python 3.x
@@ -43,8 +41,6 @@ Features:
 How to Run:
 1. Download the `calculator.py` file.
 2. Run the script using Python:
-   bash
-   python calculator.py
 
  Project 3: Password Generator
  
@@ -60,9 +56,7 @@ Option to exclude certain characters or symbols.
 
 How to Run:
 1.Download the password_generator.py file.
-2.Run the script using Python:
-bash
-python password_generator.py
+2.Run the script using Python
 
 Project 4: Rock-Paper-Scissors Game
 
@@ -79,8 +73,6 @@ Display of the game result (Win, Lose, Draw).
 How to Run:
 1.Download the rock_paper_scissors.py file.
 2.Run the script using Python:
-bash
-python rock_paper_scissors.py
 
 Conclusion
 This collection of Python projects represents the skills I have developed during my internship at Codsoft. 
